@@ -1,4 +1,5 @@
 ## Hi there 👋, I am Gustavo Kanashiro
+# Data Analyst, Requirements Analyst & Project Manager
 
 - 🔭 I’m currently working as a Data Analyst
 - 🌱 I’m currently learning Apache Airflow, AWS - Cloud Computing Services
